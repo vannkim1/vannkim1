@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-#**vannkim1/vannkim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **vannkim1/vannkim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫 About Me:
 I am currently working on gaining more skills in Networking<br>and IT. I would like to learn programming for IT and <br>Cybersecurity.
